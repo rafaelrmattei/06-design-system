@@ -1,6 +1,5 @@
 {
-  "name": "@rafaelrmattei-ignite-ui/tokens",
-  "version": "1.0.0",
+  "name": "@rafaelmattei-ignite-ui/tokens",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
@@ -14,8 +13,8 @@
   "license": "MIT",
   "description": "",
   "devDependencies": {
-    "@rafaelrmattei-ignite-ui/eslint-config": "*",
-    "@rafaelrmattei-ignite-ui/ts-config": "*",
+    "@rafaelmattei-ignite-ui/eslint-config": "*",
+    "@rafaelmattei-ignite-ui/ts-config": "*",
     "tsup": "^8.4.0",
     "typescript": "^5.3.3"
   }

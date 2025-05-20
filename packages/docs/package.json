@@ -1,6 +1,5 @@
 {
-  "name": "@rafaelrmattei-ignite-ui/docs",
-  "version": "1.0.0",
+  "name": "@rafaelmattei-ignite-ui/docs",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -36,10 +35,10 @@
     "vitest": "^3.1.3"
   },
   "dependencies": {
-    "@rafaelrmattei-ignite-ui/eslint-config": "*",
-    "@rafaelrmattei-ignite-ui/react": "*",
-    "@rafaelrmattei-ignite-ui/tokens": "*",
-    "@rafaelrmattei-ignite-ui/ts-config": "*",
+    "@rafaelmattei-ignite-ui/eslint-config": "*",
+    "@rafaelmattei-ignite-ui/react": "*",
+    "@rafaelmattei-ignite-ui/tokens": "*",
+    "@rafaelmattei-ignite-ui/ts-config": "*",
     "@storybook/addon-a11y": "^8.6.14",
     "phosphor-react": "^1.4.1",
     "polished": "^4.3.1",
