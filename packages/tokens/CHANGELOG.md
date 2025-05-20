@@ -1,5 +1,11 @@
 # @rafaelmattei-ignite-ui/tokens
 
+## 3.6.0
+
+### Minor Changes
+
+- fix: token config
+
 ## 3.5.0
 
 ### Minor Changes
