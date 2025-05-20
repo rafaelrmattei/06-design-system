@@ -8,8 +8,10 @@ export default {
   docs: {
     autodocs: true,
   },
-  viteFinal: async (config) => {
-    config.base = '/06-design-system/'
+  viteFinal: (config, { configType }) => {
+    if (configType === 'PRODUCTION') {
+      config.base = '/06-design-system/'
+    }
     return config
   },
 }
