@@ -1,5 +1,11 @@
 # @rafaelmattei-ignite-ui/tokens
 
+## 3.2.0
+
+### Minor Changes
+
+- COlors
+
 ## 3.1.0
 
 ### Minor Changes
