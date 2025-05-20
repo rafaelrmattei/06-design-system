@@ -11,10 +11,6 @@ export default {
   viteFinal: async (config, { configType }) => {
     if (configType === 'PRODUCTION') {
       config.base = '/06-design-system/'
-      config.build = {
-        ...config.build,
-        assetsDir: '',
-      }
     }
     return config
   },
