@@ -1,5 +1,11 @@
 # @rafaelmattei-ignite-ui/tokens
 
+## 3.7.0
+
+### Minor Changes
+
+- Added Toast and Tooltip
+
 ## 3.6.3
 
 ### Patch Changes
