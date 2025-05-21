@@ -1,5 +1,11 @@
 # @rafaelmattei-ignite-ui/tokens
 
+## 3.6.3
+
+### Patch Changes
+
+- Teste
+
 ## 3.6.2
 
 ### Patch Changes
